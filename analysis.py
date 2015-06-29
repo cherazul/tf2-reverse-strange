@@ -42,6 +42,11 @@
 # same for above, but lucky weapon
 # same for above, but specific map
 
+# track number of times the person you just killed uses profanity in chat (amount of raging caused)
+# track number of times the person you just killed disconnects (number of ragequits caused)
+
+# track that, but for yourself (number of ragequits caused)
+
 # save all console logs
 # save csv summary (parsed versions of logs, essentially)
 

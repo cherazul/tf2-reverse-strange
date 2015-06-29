@@ -34,6 +34,7 @@
 ### reverse strange tracker ###
 ## options ##
 # track self only
+# track self only with crits
 # track self and friends
 # track number of times a specific person kills you (only works if they don't change their name)
 # track everyone, in every game you've ever played
